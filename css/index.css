@@ -36,6 +36,7 @@
     /* 对齐问题 */
     margin-left: 15px;
     margin-right:8px;
+    vertical-align: middle;
 }
 .nav .content li:last-child a{
     padding-left: 0;
